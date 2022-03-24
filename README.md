@@ -41,5 +41,5 @@ graph TD;
 Important in visualizing information content within an image. It shows the quality of the original image in terms of its contrast.
 ![Histogram of bands](https://github.com/amon957/esda/blob/main/Histogram.PNG)
 ![Correlation](https://github.com/amon957/esda/blob/main/Correlation.PNG)
-![Interaction of bands](https://github.com/amon957/esda/blob/main/Interaction of Bands.PNG)
-![Class Frequency](https://github.com/amon957/esda/blob/main/Classs Frequency.PNG)
+![Interaction of bands](https://github.com/amon957/esda/blob/main/Interaction_of_Bands.PNG)
+![Class Frequency](https://github.com/amon957/esda/blob/main/Classs_Frequency.PNG)
