@@ -27,6 +27,11 @@ The libary present the report in an interactive hmtl report. The following are s
 - Duplicate rows
 - Text analysis
 
+### Libraries Used
+- pandas
+- pandas_profiling
+- streamlit_pandas_profiling
+- streamlit
 ### Methodology
 ```mermaid
 graph TD;
