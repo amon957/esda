@@ -55,3 +55,5 @@ Important in visualizing information content within an image. It shows the quali
 #### Number of pixels across the 5 training classes
 From the frequency graph below, it is clear that there is no balance among class samples in the training datasets
 ![Class Frequency](https://github.com/amon957/esda/blob/main/Classs_Frequency.PNG)
+
+[For Demo click Here](https://share.streamlit.io/amon957/esda/main/profile.py)
