@@ -40,6 +40,13 @@ graph TD;
 #### Histogram
 Important in visualizing information content within an image. It shows the quality of the original image in terms of its contrast.
 ![Histogram of bands](https://github.com/amon957/esda/blob/main/Histogram.PNG)
+
+#### Correlation
 ![Correlation](https://github.com/amon957/esda/blob/main/Correlation.PNG)
+
+#### Interaction of Bands
 ![Interaction of bands](https://github.com/amon957/esda/blob/main/Interaction_of_Bands.PNG)
+
+#### Number of pixels across the 6 training classes
+From the frequency graph below, it is clear that there is no balance among class samples in the training datasets
 ![Class Frequency](https://github.com/amon957/esda/blob/main/Classs_Frequency.PNG)
