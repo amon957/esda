@@ -1,4 +1,4 @@
 pandas
-pandas_profiling
-streamlit_pandas_profiling
+pandas-profiling
+streamlit-pandas-profiling
 streamlit
